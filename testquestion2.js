@@ -12,4 +12,7 @@ function setup(){
 }
 function draw(){
     text("Pikachu")
+    text("Raichu")
+    text("Bulbasaur")
+
 }
