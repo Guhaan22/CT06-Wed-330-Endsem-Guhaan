@@ -7,7 +7,7 @@ function setup(){
 }
 function draw(){
     background("skyblue")
-    circle(posX,200,50); 
+    circle(xSpeed,200,50); 
     xSpeed += 5
 }
 
