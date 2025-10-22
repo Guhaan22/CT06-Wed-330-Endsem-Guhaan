@@ -11,6 +11,8 @@ function draw(){
     xSpeed += 5
     
 }
-if
+if (x =) {
+    
+}
 
 
