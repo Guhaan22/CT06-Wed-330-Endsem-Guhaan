@@ -16,5 +16,4 @@ function draw(){
     text("Bulbasaur")
     text("Mewtwo")
     text("Charizard")
-
 }
