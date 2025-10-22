@@ -11,9 +11,9 @@ function setup(){
     textSize(20)
     text(Pikachu,300,0)
     text(Raichu,300,50)
-    text(Bulbasaur,300,400)
-    text(Mewtwo,300,450)
-    text(Charizard,300,500)
+    text(Bulbasaur,300,100)
+    text(Mewtwo,300,150)
+    text(Charizard,300,200)
 }
 
    
