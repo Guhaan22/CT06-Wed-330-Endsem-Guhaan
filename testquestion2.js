@@ -10,7 +10,7 @@ function setup(){
     yPos = 100;
     textSize(20)
     text(Pikachu,300,300)
-    text(Raichu),300
+    text(Raichu,300,350)
     text(Bulbasaur)
     text(Mewtwo)
     text(Charizard)
