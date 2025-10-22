@@ -13,7 +13,7 @@ function setup(){
     text("Raichu",300,50)
     text("Bulbasaur",300,100)
     text("Mewtwo",300,150)
-    text("Charizard,300,200)
+    text("Charizard",300,200)
 }
 
    
