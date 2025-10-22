@@ -11,9 +11,5 @@ function draw(){
     xSpeed += 5
     
 }
-if (x = 600) {
-    
-    
-}
 
 
