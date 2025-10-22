@@ -9,10 +9,10 @@ function setup(){
     // Task: set font size to 20 using textSize
     yPos = 100;
     textSize(20)
-    text(Pikachu,300,0)
-    text(Raichu,300,50)
-    text(Bulbasaur,300,100)
-    text(Mewtwo,300,150)
+    text("Pikachu",300,0)
+    text("Raichu",300,50)
+    text("Bulbasaur",300,100)
+    text("Mewtwo",300,150)
     text(Charizard,300,200)
 }
 
