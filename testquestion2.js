@@ -5,7 +5,7 @@ function setup(){
     createCanvas(200, 300);
     fill("pink");
     // Task: Align the text to the center using textAlign
-    textAlign(CENTER,CEN)
+    textAlign(CENTER,CENTER)
     // Task: set font size to 20 using textSize
     yPos = 100;
     textSize(20)
