@@ -10,10 +10,10 @@ function setup(){
     yPos = 100;
     textSize(20)
 }
-function draw(){
+
     text("Pikachu")
     text("Raichu")
     text("Bulbasaur")
     text("Mewtwo")
     text("Charizard")
-}
+
